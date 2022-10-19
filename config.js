@@ -60,21 +60,21 @@ global.psaweria = '_'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '17754764633'
-global.nomorown = '6282321015688'
+global.nomorown = '6288227856331'
 global.namebot = 'xynaa'
 global.nameown = 'SIJEMBOT'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['17754764633'],
+  ['6288227856331'],
   ['6285954184111'],
   ['18126338970'],
-  ['6282321015688', 'Xynaa', true]
+  ['6288227856331', 'Xynaa', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = ['6288227856331'] // Want some help?
+global.prems = ['6288227856331'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
